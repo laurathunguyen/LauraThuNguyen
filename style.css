@@ -1,0 +1,43 @@
+body {
+  background-color: #34282C;
+  font-family: sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: grey;
+}
+p {
+  text-align: center;
+  color: grey;
+}
+
+.bilde {
+  width: 200px;
+  border-radius: 50%;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.Overskrift{
+  font-size: 20px;
+font-weight: bold;
+  color: grey;
+}
+
+.Sitat {
+  font-size: 30px;
+  font-style: italic;
+  color: grey;
+}
+
+.Forfatter {
+  font-size: 20px;
+  font-weight: bold;
+    color: grey;
+}
